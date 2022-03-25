@@ -4,6 +4,7 @@
 //CODE HERE 
 
 myName = "Tori Daughton"
+console.log(myName)
 
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
@@ -11,6 +12,7 @@ myName = "Tori Daughton"
 //CODE HERE
 
 faveNum = "2"
+console.log(faveNum)
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
@@ -18,6 +20,7 @@ faveNum = "2"
 //CODE HERE
 
 lovesCode = true
+console.log(lovesCode)
 
 //////////////////PROBLEM 4////////////////////
 /*

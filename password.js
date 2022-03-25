@@ -10,9 +10,9 @@ const reader = readline.createInterface({
 
 const str = "1234567890"
 
-reader.question(`Username: `, function(username){
+reader.question(`Please input Username: `, function(username){
     console.log(`Welcome ${username}`)
-    reader.question(`Input password: `, function(password){
+    reader.question(`Please Input password: `, function(password){
         
         if(password.length >= str.length){
             console.log("success!")
