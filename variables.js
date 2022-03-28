@@ -3,7 +3,7 @@
 
 //CODE HERE 
 
-myName = "Tori Daughton"
+const myName = "Tori Daughton"
 console.log(myName)
 
 //////////////////PROBLEM 2////////////////////
@@ -11,7 +11,7 @@ console.log(myName)
 
 //CODE HERE
 
-faveNum = "2"
+const faveNum = "2"
 console.log(faveNum)
 
 //////////////////PROBLEM 3////////////////////
@@ -19,7 +19,7 @@ console.log(faveNum)
 
 //CODE HERE
 
-lovesCode = true
+const lovesCode = true
 console.log(lovesCode)
 
 //////////////////PROBLEM 4////////////////////
@@ -46,6 +46,6 @@ else {
 
 //CODE HERE
 
-for(i = faveNum; i <= 6; i++){
+for(let i = faveNum; i <= 6; i++){
   console.log(faveNum)
 }

@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-let gitDefinition = "Git is a program that acts as a version control system. It allows for individuals and teams to track changes to code projects, while also preventing bugs and progress loss."
+const gitDefinition = "Git is a program that acts as a version control system. It allows for individuals and teams to track changes to code projects, while also preventing bugs and progress loss."
 console.log(gitDefinition)
 
 //////////////////PROBLEM 2////////////////////
@@ -22,7 +22,7 @@ console.log(gitDefinition)
 
 //CODE HERE
 
-let gitHubDefinition = "GitHub is a website that allows the local code (git) to be shared/stored remotely online into a repository. Git hub can also be used as a portfolio for future employers, because they can see the projects saved there."
+const gitHubDefinition = "GitHub is a website that allows the local code (git) to be shared/stored remotely online into a repository. Git hub can also be used as a portfolio for future employers, because they can see the projects saved there."
 console.log(gitHubDefinition)
 //////////////////PROBLEM 3////////////////////
 /*
@@ -32,7 +32,7 @@ console.log(gitHubDefinition)
 
 //CODE HERE
 
-let gitInitDefinition = "git init is a command that initializes / creates a new Git repository."
+const gitInitDefinition = "git init is a command that initializes / creates a new Git repository."
 console.log(gitInitDefinition)
 
 //////////////////PROBLEM 4////////////////////
@@ -43,7 +43,7 @@ console.log(gitInitDefinition)
 
 //CODE HERE
 
-let gitCloneDefinition = `git clone is a command that is used to target an existing repository and create a clone, or copy of the target repository.`
+const gitCloneDefinition = `git clone is a command that is used to target an existing repository and create a clone, or copy of the target repository.`
 console.log(gitCloneDefinition)
 
 //////////////////PROBLEM 5////////////////////
@@ -54,7 +54,7 @@ console.log(gitCloneDefinition)
 
 //CODE HERE
 
-let gitStatusDefinition = `git status is a command used for displaying the state of the working directory and the staging area aka tell me about this repo.`
+const gitStatusDefinition = `git status is a command used for displaying the state of the working directory and the staging area aka tell me about this repo.`
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -67,10 +67,10 @@ let gitStatusDefinition = `git status is a command used for displaying the state
 
 //CODE HERE
 
-let gitAddDefinition = `git add is the command used to add some --or all-- files to be track`
+const gitAddDefinition = `git add is the command used to add some --or all-- files to be track`
 console.log(gitAddDefinition)
 
-let gitAddCode = `the command to add all files is: "git add ."`
+const gitAddCode = `the command to add all files is: "git add ."`
 console.log(gitAddCode)
 
 //////////////////PROBLEM 7////////////////////
@@ -83,11 +83,11 @@ console.log(gitAddCode)
 */
 
 //CODE HERE
-let gitCommitDefinition = `git commit is a command that creates a snapshot of the files being tracking.`
+const gitCommitDefinition = `git commit is a command that creates a snapshot of the files being tracking.`
 
 console.log(gitCommitDefinition)
 
-let gitCommitCode = `git commit -m "initial commit"`
+const gitCommitCode = `git commit -m "initial commit"`
 console.log(gitCommitCode)
 
 
@@ -99,4 +99,4 @@ console.log(gitCommitCode)
 
 //CODE HERE
 
-let gitPushDefinition = "git push is a command used to connect your local repository content to a remote --GitHub-- repository you've created"
+const gitPushDefinition = "git push is a command used to connect your local repository content to a remote --GitHub-- repository you've created"
